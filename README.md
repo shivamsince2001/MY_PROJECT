@@ -13,6 +13,8 @@ All programs are written to improve logic building and strengthen C++ programmin
 ## 🧠 Programs Included
 
 - `palindrome.cpp` — Program to check whether the input number is a **palindrome**.
+- - `matrix_addition.cpp` – Program to add two matrices. It takes input for two 2D matrices, checks if their dimensions match, and prints their sum if addition is possible.
+
 
 > *(More files will be added soon)*
 
