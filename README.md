@@ -13,8 +13,11 @@ All programs are written to improve logic building and strengthen C++ programmin
 ## 🧠 Programs Included
 
 - `palindrome.cpp` — Program to check whether the input number is a **palindrome**.
+  
 - `matrix_addition.cpp` – Program to add two matrices. It takes input for two 2D matrices, checks if their dimensions match, and prints their sum if addition is possible.
+  
 - `matrix_multiplication.cpp` – Program to multiply two matrices. It verifies that the number of columns in the first matrix equals the number of rows in the second matrix before performing multiplication.
+  
 - `simpleCalculator.cpp` - A menu-driven calculator program that performs basic arithmetic operations (Addition, Subtraction, Multiplication, Division) using a `switch` statement. It includes input validation and handles division by zero.
 
 
