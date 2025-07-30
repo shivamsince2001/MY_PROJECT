@@ -24,6 +24,10 @@ All programs are written to improve logic building and strengthen C++ programmin
 
 - `prime_check.cpp` – Program to check whether a given number is a **prime number**. It takes an integer input and checks how many numbers divide it evenly. If the count is exactly two (1 and itself), it declares the number as prime.
 
+- `armstrong_check.cpp` – Program to check whether the input number is an **Armstrong number** by summing the cubes of its digits and comparing it with the original number.
+
+
+
 
 
 
